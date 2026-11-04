@@ -1,0 +1,5 @@
+TRADE order2 1010 10 order3 1000 10
+TRADE order1 1000 5 order3 1000 5
+SELL:
+BUY:
+1000 5
